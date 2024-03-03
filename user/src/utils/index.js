@@ -95,4 +95,5 @@ module.exports = {
   generateSignature,
   validatePassword,
   generateSalt,
+  generatePassword,
 };
